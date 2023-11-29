@@ -1,6 +1,6 @@
 # To-Do List Web App
 
-`Live-server`: ```https://maurya-sachin.github.io/toDoList/```
+`Live-server`: https://maurya-sachin.github.io/toDoList/
 
 This is a simple To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add, edit, and delete tasks, as well as mark them as complete.
 
